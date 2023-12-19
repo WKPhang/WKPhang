@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/WKPhang">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&size=18&duration=2000&pause=100&multiline=true&width=700&height=80&lines=Wei Kit+Phang;PhD Candidate+%7C+Statistician+%7C+Data+Analyst+%7C+ML+Modeller;Statistics+%7C+Machine+Learning+%7C+Explainable+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&size=18&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Wei Kit+Phang;PhD Candidate+%7C+Statistician+%7C+Data+Analyst+%7C+ML+Modeller;Statistics+%7C+Machine+Learning+%7C+Explainable+AI" alt="Typing SVG" />
 </a>
 <br/>
 
