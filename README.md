@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://www.researchgate.net/profile/Wei_Kit_Phang/">
-    <img src="https://img.shields.io/badge/ResearchGate-#04d4ac">
+    <img src="https://img.shields.io/badge/ResearchGate-8A2BE2">
 </a>
 <br/>
 
