@@ -2,7 +2,7 @@
 
 ![Wei Kit's GitHub Banner](./assets/GitHubheader.gif)
 
-
+<p align="center">
 <a href="mailto:weikitphang@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
@@ -11,7 +11,7 @@
 </a>
 <a href="https://www.researchgate.net/profile/Wei_Kit_Phang/">
     <img src="https://img.shields.io/badge/ResearchGate-04d4ac">
-</a> -->
+</a>
 <br/>
     
 <a href="https://github.com/WKPhang">
