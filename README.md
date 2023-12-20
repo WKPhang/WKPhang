@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+
 <p align="center">
-<a href="https://github.com/WKPhang">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=18&duration=2000&pause=100&&color=973C03&multiline=true&width=600&height=80&lines=Wei Kit+Phang;PhD Candidate+%7C+Statistician+%7C+Data+Analyst+%7C+ML+Modeller;R+%7C+Statistics+%7C+Machine+Learning+%7C+Simple+Tools" alt="Typing SVG" />
+<a [![Phangs's GitHub Banner](./assets/GitHub+header.gif]
 </a>
 <br/>
 
