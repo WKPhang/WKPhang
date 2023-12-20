@@ -26,7 +26,7 @@
 <tr><td>
 |Title | Description |
 |--|--|
-| [XGBoost_EcologicalNicheModel] (https://github.com/WKPhang/XGBoost_EcologicalNicheModel) | (https://img.shields.io/badge/ResearchGate-04d4ac) (https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full) |
+| [XGBoost_EcologicalNicheModel] (https://github.com/WKPhang/XGBoost_EcologicalNicheModel) | ![https://img.shields.io/badge/ResearchGate-04d4ac] (https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full) |
 </td><td>
 
 |Title | Description |
