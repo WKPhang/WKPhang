@@ -20,6 +20,16 @@
 </a>
 <br/>
 
+### <i class="fa-solid fa-laptop"></i> Projects
+<table>
+<tr><th>Machine Learning </th><th>Statistics</th></tr>
+<tr><td>
+
+
+</td></tr> </table>
+
+<table>
+<tr><th>Simple tools </th>
 
 <!--
 **WKPhang/WKPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
