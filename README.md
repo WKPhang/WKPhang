@@ -23,7 +23,8 @@
 ### 💻 Projects
 <table>
 <tr><th>Machine Learning </th><th>Statistics</th></tr>
-<tr><td>
+</tr><td>
+    
 |Title | Description |
 |--|--|
 | [XGBoost_EcologicalNicheModel](https://github.com/WKPhang/XGBoost_EcologicalNicheModel) | ![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)(https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full) |
