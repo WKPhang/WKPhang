@@ -1,10 +1,7 @@
 ### Hi there 👋
 
+[![Phangs's GitHub Banner](./assets/GitHub+header.gif]
 
-<p align="center">
-<a [![Phangs's GitHub Banner](./assets/GitHub+header.gif]
-</a>
-<br/>
 
 <a href="mailto:weikitphang@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
