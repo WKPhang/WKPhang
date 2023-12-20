@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Wei Kit's GitHub Banner](./assets/GitHubheader.png)]
+[![Wei Kit's GitHub Banner](./assets/GitHubheader.gif)]
 
 
 <a href="mailto:weikitphang@gmail.com">
