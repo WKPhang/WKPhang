@@ -37,7 +37,8 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Simple tools </tr>
+<tr>Simple tools </tr>
+</tr><td>
 
 |Title | Description |
 |--|--|
