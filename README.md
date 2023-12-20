@@ -1,8 +1,8 @@
 ### Hi there 👋
-<p align="center">
+
 ![Wei Kit's GitHub Banner](./assets/GitHubheader.gif)
 
-
+<p align="center">
 <a href="mailto:weikitphang@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
