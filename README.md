@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center">
 ![Wei Kit's GitHub Banner](./assets/GitHubheader.gif)
 
 
@@ -11,8 +11,13 @@
 </a>
 <a href="https://www.researchgate.net/profile/Wei_Kit_Phang/">
     <img src="https://img.shields.io/badge/ResearchGate-04d4ac">
+
+
+<a href="https://github.com/WKPhang">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKPhang&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br/>
+
 
 <!--
 **WKPhang/WKPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
