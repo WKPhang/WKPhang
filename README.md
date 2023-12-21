@@ -33,6 +33,7 @@
 |Title | Description |
 |--|--|
 | [DLNM_VectorBorneDisease](https://github.com/WKPhang/DLNM_VectorBorneDisease) | |
+|[Probit-Regression-Plot](https://github.com/WKPhang/Probit-Regression-Plot) | |
 
 </td></tr> </table>
 
@@ -42,6 +43,8 @@
 
 |Title | Description |
 |--|--|
+| [Amino-Acid-Haplotype-Characterization](https://github.com/WKPhang/Amino-Acid-Haplotype-Characterization) | |
+| [Image-to-Text-Converter](https://github.com/WKPhang/Image-to-Text-Converter) | |
 
 </td></tr> </table>
 
