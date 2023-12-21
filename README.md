@@ -48,7 +48,7 @@
 
 </td></tr> </table>
 
-<a ![](https://github-readme-stats.vercel.app/api?username=WKPhang&show_icons=true&theme=transparent)
+<a ![](https://komarev.com/ghpvc/?username=WKPhang&color=blue)
 </a>
 <br/>
 
