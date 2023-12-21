@@ -48,9 +48,6 @@
 
 </td></tr> </table>
 
-<a ![](https://komarev.com/ghpvc/?username=WKPhang&color=blue)
-</a>
-<br/>
 
 <!--
 **WKPhang/WKPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
