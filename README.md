@@ -15,10 +15,16 @@
 <br/>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/WKPhang">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKPhang&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<p align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WKPhang&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WKPhang&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WKPhang&theme=algolia)
+
 </a>
 <br/>
+
+
 
 ### 💻 Projects
 <table>
