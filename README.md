@@ -24,7 +24,7 @@
 
 
 
-### 💻 Projects
+## 💻 Projects
 <table>
 <tr><th>Machine Learning </th><th>Statistics</th></tr>
 </tr><td>
