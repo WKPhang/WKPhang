@@ -22,7 +22,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WKPhang&theme=algolia)
 
 ## Data Science Portfolio
-[Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full)
+[1. Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full)
 <img src="https://github.com/WKPhang/XGBoost_EcologicalNicheModel/blob/main/assets/Knowlesi_xgboost.jpg"/>
 
 ## 💻 Projects
