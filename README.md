@@ -44,7 +44,7 @@
 </td></tr> </table>
 
 <table>
-<tr>Simple tools </th><th>Data Analytics </th></tr>
+<tr><th>Simple Tools </th><th>Data Analytics </th></tr>
 </tr><td>
 
 |Title | Description |
