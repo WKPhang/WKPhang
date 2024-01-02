@@ -22,12 +22,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WKPhang&theme=algolia)
 
 ## 📚 Data Science Portfolio
-[1. Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full)
+1. [Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full)
 <img src="https://github.com/WKPhang/XGBoost_EcologicalNicheModel/blob/main/assets/Knowlesi_xgboost.jpg"/>
+---
 
 ## 💻 Projects
 <table>
-<tr><th>Machine Learning </th><th>Statistics</th></tr>
+<tr><th>Machine Learning </th><th>Statistics </th></tr>
 </tr><td>
     
 |Title | Description |
@@ -43,7 +44,7 @@
 </td></tr> </table>
 
 <table>
-<tr>Simple tools </tr>
+<tr>Simple tools </th><th>Data Analytics </th></tr>
 </tr><td>
 
 |Title | Description |
@@ -51,6 +52,12 @@
 | [Amino-Acid-Haplotype-Characterization](https://github.com/WKPhang/Amino-Acid-Haplotype-Characterization) | |
 | [Detach-R-Packages](https://github.com/WKPhang/Detach-R-Packages)| |
 | [Image-to-Text-Converter](https://github.com/WKPhang/Image-to-Text-Converter) | |
+</td><td>
+
+|Title | Description |
+|--|--|
+| | |
+| | |
 
 </td></tr> </table>
 
