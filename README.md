@@ -56,7 +56,7 @@
 
 |Title | Description |
 |--|--|
-| [Rise_Fall_Programming_Language](https://github.com/WKPhang/Rise_Fall_Programming_Language/tree/main) | |
+| [Rise-Fall-Programming-Language](https://github.com/WKPhang/Rise-Fall-Programming-Language/tree/main) | |
 | | |
 
 </td></tr> </table>
