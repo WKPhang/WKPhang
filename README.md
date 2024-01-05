@@ -24,6 +24,7 @@
 ## 📚 Data Science Portfolio
 1. [Predicting Plasmodium knowlesi transmission risk across Peninsular Malaysia using machine learning-based ecological niche modeling approaches](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full)
 <img src="https://github.com/WKPhang/XGBoost_EcologicalNicheModel/blob/main/assets/Knowlesi_xgboost.jpg"/>
+<br>
 
 2. [Data Visualization of McGill Billboard Dataset](https://github.com/WKPhang/Musical-Data-Visualization)
 <img src="https://github.com/WKPhang/Musical-Data-Visualization/blob/main/assets/Visualization.jpg"/>
