@@ -4,10 +4,10 @@
 
 <p align="center">
 <a href="mailto:weikitphang@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/wei-kit-phang-0688b4136/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://gist.github.com/WKPhang">
     <img src="https://img.shields.io/badge/GitHub_Gist-333333">
