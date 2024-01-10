@@ -9,11 +9,11 @@
 <a href="https://www.linkedin.com/in/wei-kit-phang-0688b4136/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://gist.github.com/WKPhang">
-    <img src="https://img.shields.io/badge/GitHub_Gist-333333">
-</a>
 <a href="https://www.researchgate.net/profile/Wei_Kit_Phang/">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white">
+</a>
+<a href="https://gist.github.com/WKPhang">
+    <img src="https://img.shields.io/badge/GitHub_Gist-333333">
 <br/>
 
 ## &#x1f4c8; GitHub Stats
