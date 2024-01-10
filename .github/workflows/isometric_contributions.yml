@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
 
           # Options
           user: WKPhang
