@@ -42,6 +42,7 @@
 |Title | Description |
 |--|--|
 | [XGBoost_EcologicalNicheModel](https://github.com/WKPhang/XGBoost_EcologicalNicheModel) | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1126418/full) |
+| [Sentimental-Predict-RNN](https://github.com/WKPhang/Sentimental-Predict-RNN) | |
 </td><td>
 
 |Title | Description |
