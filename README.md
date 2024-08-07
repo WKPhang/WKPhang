@@ -58,9 +58,9 @@
 
 |Title | Description |
 |--|--|
+| [Uncommon-R-Data-Wrangling-Tips](https://github.com/WKPhang/Uncommon-R-Data-Wrangling-Tips)| |
 | [Amino-Acid-Haplotype-Characterization](https://github.com/WKPhang/Amino-Acid-Haplotype-Characterization) | |
 | [Detach-R-Packages](https://github.com/WKPhang/Detach-R-Packages)| |
-| [Filter-Nested-List-In-R](https://github.com/WKPhang/Filter-Nested-List-In-R)| |
 | [Image-to-Text-Converter](https://github.com/WKPhang/Image-to-Text-Converter) | |
 </td><td>
 
