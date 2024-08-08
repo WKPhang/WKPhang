@@ -32,7 +32,7 @@
 
 2. [Data Visualization of McGill Billboard Dataset](https://github.com/WKPhang/Musical-Data-Visualization)
 <img src="https://github.com/WKPhang/Musical-Data-Visualization/blob/main/assets/Visualization.jpg"/>
----
+
 
 ## 💻 Projects
 <table>
@@ -72,7 +72,7 @@
 </td></tr> </table>
 
 ## 📰 Articles
-[What is the Logit Transform?](https://github.com/WKPhang/Logit-Transform)
+1. [What is the Logit Transform?](https://github.com/WKPhang/Logit-Transform)
 
 
 ![](https://komarev.com/ghpvc/?username=WKPhang&style=plastic&color=30D5C8)
