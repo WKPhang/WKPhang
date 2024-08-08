@@ -48,7 +48,7 @@
 |Title | Description |
 |--|--|
 | [DLNM_VectorBorneDisease](https://github.com/WKPhang/DLNM_VectorBorneDisease) | |
-|[Probit-Regression-Plot](https://github.com/WKPhang/Probit-Regression-Plot) | |
+| [Probit-Regression-Plot](https://github.com/WKPhang/Probit-Regression-Plot) | |
 
 </td></tr> </table>
 
@@ -71,9 +71,17 @@
 
 </td></tr> </table>
 
+## 📰 Articles
+[What is the Logit Transform?](https://github.com/WKPhang/Logit-Transform)
+
+
 ![](https://komarev.com/ghpvc/?username=WKPhang&style=plastic&color=30D5C8)
 
 <!--
+
+
+
+
 **WKPhang/WKPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
