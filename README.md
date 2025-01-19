@@ -62,8 +62,8 @@
 
 |Title | Description |
 |--|--|
-| [Uncommon-R-Data-Wrangling-Tips](https://github.com/WKPhang/Uncommon-R-Data-Wrangling-Tips)| |
-| [Amino-Acid-Haplotype-Characterization](https://github.com/WKPhang/Amino-Acid-Haplotype-Characterization) | |
+| [Uncommon R Data Wrangling Tips](https://github.com/WKPhang/uncommon-u-data-wrangling-tips)| |
+| [Amino Acid Haplotype Characterization](https://github.com/WKPhang/amino-acid-haplotype-characterization) | |
 | [Detach-R-Packages](https://github.com/WKPhang/Detach-R-Packages)| |
 | [Image-to-Text-Converter](https://github.com/WKPhang/Image-to-Text-Converter) | |
 </td><td>
