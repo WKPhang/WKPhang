@@ -4,6 +4,11 @@
 </div>
 
 <p align="center">
+  <img src="./assets/GitHubheader.gif" alt="Wei Kit's GitHub Banner">
+</p>
+
+
+<p align="center">
 <a href="mailto:weikitphang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
