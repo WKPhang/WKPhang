@@ -18,9 +18,11 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WKPhang&theme=algolia)
+
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WKPhang&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WKPhang&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WKPhang&theme=algolia)
+
 </p>
 
 
