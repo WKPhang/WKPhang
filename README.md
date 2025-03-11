@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p align="center">
+<div align="center">
 ![Wei Kit's GitHub Banner](./assets/GitHubheader.gif)
-</p>
+</div>
 
 <p align="center">
 <a href="mailto:weikitphang@gmail.com">
