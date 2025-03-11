@@ -1,8 +1,4 @@
 ### Hi there 👋
-<div align="center">
-![Wei Kit's GitHub Banner](./assets/GitHubheader.gif)
-</div>
-
 <p align="center">
   <img src="./assets/GitHubheader.gif" alt="Wei Kit's GitHub Banner">
 </p>
@@ -24,6 +20,11 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WKPhang&theme=algolia">
+<br> # Line break
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WKPhang&theme=algolia">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WKPhang&theme=algolia">
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WKPhang&theme=algolia)
 
