@@ -85,7 +85,8 @@
 
 ![](https://komarev.com/ghpvc/?username=WKPhang&style=plastic&color=30D5C8)
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=WKPhang&show-other-skills=true" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=WKPhang&show-other-skills=true" style="max-width: 100%; height: auto;">
+
 
 <!--
 
