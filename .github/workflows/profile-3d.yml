@@ -21,5 +21,5 @@ jobs:
           git config user.email "weikitphang@gmail.com"
           git add -A .
           if git commit -m "generated"; then
-            git push https://WKPhang:${{ secrets.GITHUB_TOKEN }}@github.com/WKPhang/WKPhang.git HEAD:main
+            git push
           fi
