@@ -77,7 +77,7 @@
 </td></tr> </table>
 
 ## 📰 Articles
-1. [What is the Logit Transform?](https://github.com/WKPhang/Logit-Transform)
+1. [What is Logit Transformation?](https://github.com/WKPhang/logit-transformation)
 
 
 ## 🌐 My Visitors from Around the World (since 10 March 2025)
