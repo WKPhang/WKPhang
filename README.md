@@ -36,7 +36,7 @@
 3. [Establishing associated risk factors, including fungal and parasitic infections among Malaysians living with schizophrenia](https://www.nature.com/articles/s41598-023-50299-7)
 
 4. [Data Visualization of McGill Billboard Dataset](https://github.com/WKPhang/Musical-Data-Visualization)
-<img src="https://github.com/WKPhang/Musical-Data-Visualization/blob/main/assets/Visualization.jpg"/>
+<img src="https://github.com/WKPhang/musical-data-visualization/blob/main/assets/Visualization.jpg"/>
 
 
 ## 💻 Projects
@@ -72,7 +72,7 @@
 |Title | Description |
 |--|--|
 | [Rise-Fall-Programming-Language](https://github.com/WKPhang/Rise-Fall-Programming-Language/tree/main) | |
-| [Musical-Data-Visualization](https://github.com/WKPhang/Musical-Data-Visualization) | |
+| [musical-data-visualization](https://github.com/WKPhang/musical-data-visualization) | |
 
 </td></tr> </table>
 
