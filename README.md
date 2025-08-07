@@ -53,7 +53,7 @@
 |Title | Description |
 |--|--|
 | [DLNM_VectorBorneDisease](https://github.com/WKPhang/DLNM_VectorBorneDisease) | |
-| [Probit-Regression-Plot](https://github.com/WKPhang/Probit-Regression-Plot) | |
+| [probit-regression-plot](https://github.com/WKPhang/probit-regression-plot) | |
 
 </td></tr> </table>
 
