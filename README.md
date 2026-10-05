@@ -90,6 +90,7 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ## Games I'm Currently Playing
+<img src="https://i.ytimg.com/vi/JBb1MrtnlSQ/maxresdefault.jpg"/>
 
 
 <!--
